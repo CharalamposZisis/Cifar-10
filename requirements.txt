@@ -4,3 +4,5 @@ scikit-learn
 tensorflow
 matplotlib
 cifar10
+mlflow
+xgboost
